@@ -11,6 +11,7 @@ public class Add {
      * @return the sum of a and b.
      */
     public int addNumbers(int a, int b){
-        return 0;
+        int sum = a + b;
+        return sum;
     }
 }
